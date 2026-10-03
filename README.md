@@ -16,8 +16,8 @@ Course project for Text Mining, MSc in Data Science and Advanced Analytics, NOVA
 | File | Description |
 | --- | --- |
 | `report_12.pdf` | Project report: data, methods, experiments and results |
-| `tm_final_12.ipynb.txt` | Final notebook (rename to `.ipynb` to open in Jupyter) |
-| `tm_tests_12.ipynb.txt` | Experiments and model tests (rename to `.ipynb`) |
+| `tm_final_12.ipynb` | Final notebook |
+| `tm_tests_12.ipynb.txt` | Experiments and model tests (rename to `.ipynb` to open in Jupyter) |
 | `pred_12.csv` | Predictions on the test set |
 
 ## Tech stack
