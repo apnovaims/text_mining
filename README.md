@@ -27,6 +27,9 @@ Python · Hugging Face Transformers · LLMs · RAG · agentic workflows
 ## Authors
 
 Team: 
+
 · Artem Polikarpov · [LinkedIn](https://www.linkedin.com/in/artem-polikarpov-068a4313) · [All projects](https://github.com/apnovaims)
-· Joao Cardoso, 
+
+· Joao Cardoso 
+
 · Simon Sazonov
